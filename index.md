@@ -1,17 +1,17 @@
-## Welcome to raquelseville GitHub Page
+# Welcome to raquelseville GitHub Page
 
+## Espresso Tutorials SAP OpenUI5 for Mobile BI and Analytics 
 Check out the following webapps built using SAP OpenUI5:
 
 ### Telecommunications - Project denovo
 - KPI driven
-- Multiple graphs (Pie, Bar, Line)
+- Dashboard style with multiple graphs (Pie, Bar, Line)
 [https://raquelseville.github.io/openui5espresso/denovo/index.html]
 
 ### Airline - Project prism
-- KPI driven
-- Tile Layout
+- Project ROI and metrics
+- Tile Layout with sap.m StandadTile
 [https://raquelseville.github.io/openui5espresso/prism/index.html]
-
 
 
 ### Support or Contact
