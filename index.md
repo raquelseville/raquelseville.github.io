@@ -5,12 +5,12 @@ Check out the following webapps built using SAP OpenUI5:
 ### Telecommunications - Project denovo
 - KPI driven
 - Multiple graphs (Pie, Bar, Line)
-[https://raquelseville.github.io/openui5espresso/denovo/index.html](url)
+[https://raquelseville.github.io/openui5espresso/denovo/index.html]
 
 ### Airline - Project prism
 - KPI driven
 - Tile Layout
-[https://raquelseville.github.io/openui5espresso/prism/index.html](url)
+[https://raquelseville.github.io/openui5espresso/prism/index.html]
 
 
 
