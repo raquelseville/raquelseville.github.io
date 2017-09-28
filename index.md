@@ -14,7 +14,3 @@ Check out the following webapps built using SAP OpenUI5:
 ## Webapps source code [available here](https://github.com/raquelseville/openui5espresso)
 
 ## SAP OpenUI5 available on [Amazon](https://goo.gl/QkRh8k)
-![alt text](https://github.com/raquelseville/raquelseville.github.io/blob/master/sap_openui5_sml.JPG)
-
-
-
