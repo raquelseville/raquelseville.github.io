@@ -13,4 +13,4 @@ Check out the following webapps built using SAP OpenUI5:
 
 ## Webapps source code [available here](https://github.com/raquelseville/openui5espresso)
 
-## SAP OpenUI5 for Mobile BI an Analytics available on [Amazon](https://goo.gl/QkRh8k)
+## SAP OpenUI5 for Mobile BI and Analytics available on [Amazon](https://goo.gl/QkRh8k)
